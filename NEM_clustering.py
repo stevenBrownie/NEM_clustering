@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.stats import multivariate_normal
-import numpy as np
 from sklearn.cluster import KMeans
 from matplotlib import pyplot as plt
 import itertools
